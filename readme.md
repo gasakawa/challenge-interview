@@ -1,11 +1,35 @@
 # Desafio
 
+Utilize este repositório como **template**, para "clonar" ele na sua própria conta do github. 
+
+1. Clique no botão "Use this templata"
+
+   ![](/home/gasakawa/Documents/labs/innovation/challenge/challenge-interview/static/images/template-github.png)
+
+2. Escreva um nome para criar um novo repositório na sua conta do github, a partir do template selecionado.
+
+![](/home/gasakawa/Documents/labs/innovation/challenge/challenge-interview/static/images/template-create.png)
+
+
+
+3. Uma vez criado o repositório na sua conta do github, clone o mesmo na sua máquina 
+
+![](/home/gasakawa/Documents/labs/innovation/challenge/challenge-interview/static/images/github-clone.png)
+
+
+
+```bash
+git clone https://github.com/[seu usuario]/[nome do repositório criado no passo anterior].git
+```
+
+
+
 ### Aquecimento
 
 Clone utilizando [GIT](https://git-scm.com/) o projeto do do **github**
 
 ```bash
-git clone 
+git clone https://github.com/gasakawa/challenge-interview.git
 ```
 
 Acesse o diretorio criado
